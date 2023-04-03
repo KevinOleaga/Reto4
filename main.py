@@ -12,7 +12,7 @@ senti = 0
 
 # PARAMETROS DE BUSQUEDA
 search_query = "(Peter Obi OR Tinubu OR Atiku OR #PeterObiForPresident2023 OR #TinubuForPresident2023 OR #AtikuForPresident2023 OR #BAT2023 OR #Obi2023 OR #Atiku2023 OR #OBIdient OR #Atikulated OR Batified OR PDP OR APC OR LP OR LABOUR PARTY)"
-num_tweets = 1000
+num_tweets = 50000
 
 print("\n ******** EXTRACCION DE TWEETS ******** \n")
 
